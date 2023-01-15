@@ -5,5 +5,5 @@ Pig is a simple dice game first described in print in John Scarne in 1945.[1] Pl
 ## Code
  Created using HTML, CSS and JavaScript
  
- ##Live()
+ ##Live(https://cdochita.github.io/Pig-Game/)
  
